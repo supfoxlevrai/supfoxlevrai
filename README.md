@@ -2,7 +2,7 @@
 
 ### A future web and app developer!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supfoxlevrai&label=Profile views&color=0e75b6&style=flat" alt="supfoxlevrai" /> </p>
+![Vues du profil](https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Profile%20views&query=%24.value&url=https%3A%2F%2Fapi.komarev.com%2Fv1%2Fghpvc%2F%3Fusername%3Dsupfoxlevrai)![Vues du profil](https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Profile%20views&query=%24.value&url=https%3A%2F%2Fapi.komarev.com%2Fv1%2Fghpvc%2F%3Fusername%3Dsupfoxlevrai)
 
 - 🔭 I'm currently working on **Nathoup2p and DOM-Factory**
 
