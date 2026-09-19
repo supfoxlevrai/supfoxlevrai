@@ -1,21 +1,60 @@
 # Hi 👋, I'm SupFox
 
-### A future web and app developer!
+> **Etudiant en informatique & Développeur passionné (futur dev)**
 
-- 🔭 I'm currently working on **Nathoup2p and DOM-Factory**
+Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 
-- 🌱 I'm currently learning **C/C++/C#, Rust, PHP, Kotlin, TypeScript**
 
-- 📫 How to reach me **supfoxlevrai@gmail.Com**
+---
 
-- ⚡ Fun fact **I think that i think...
-And i like panache**
+### 🔭 Projets en cours
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/supfoxlevrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="supfoxlevrai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nathanael-dos-santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanael-dos-santos" height="30" width="40" /></a>
+- **[Nathoup2p](https://github.com/supfoxlevrai/Nathoup2p)** — Démarche de conception d'une messagerie Peer To Peer (P2P) en Java&JS.
+- **[DOM-Factory](https://github.com/supfoxlevrai/DOM-Factory)** — _"Et si les objets du quotidien étaient sur un simple navigateur 😳."_
+-  **[NScript](https://github.com/supfoxlevrai/DOM-Factory)** — Conception d'un Langage de Programmation Orienté Jeux  (POJ) inspiré des traces des langages de programmation populaire (notamment les triptyque : Java/C++/Python) mais également du défunt ActionScript.
+
+### 🛠️ Compétences & Environnement Technique
+
+#### 💻 Langages de programmation
+* **Maîtrisés**
+
+[![Langages maîtrisés](https://skillicons.dev/icons?i=java,js,py,php,html,css)](https://skillicons.dev)
+
+
+* **En cours d'apprentissage / Approfondissement**
+
+[![Langages en apprentissage](https://skillicons.dev/icons?i=ts,c,cpp,cs,rust,kotlin)](https://skillicons.dev)
+
+* **Scripting & Automatisation**
+
+[![Scripting](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)
+
+#### 🗄️ Bases de données
+
+[![Bases de données](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+#### ⚙️ Outils, Monitoring & Analyse
+
+[![Outils](https://skillicons.dev/icons?i=git,grafana)](https://skillicons.dev)
+
+#### 🐧 Systèmes & Environnements
+
+[![Environnements](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
+
+### 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=supfoxlevrai&show_icons=true&theme=radial" alt="Statistiques GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supfoxlevrai&layout=compact&theme=radial" alt="Top Langages" height="150"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+---
+
+### 📫 Me contacter
+
+- **Email :** [supfoxlevrai@gmail.com](mailto:supfoxlevrai@gmail.com)
+- **LinkedIn :** [Nathanaël Dos Santos](https://linkedin.com/in/nathanael-dos-santos)
+
+⚡ **Fun fact :** *I think that I think... and I like Panache!*
+
+[![EasterEgg](https://img.shields.io/badge/-Secret_Techs-black?style=flat-square&logo=linux)](https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif "Langage_en_cours_de_developpement:nscript,nml,nshake,ssl,real/nreal,kash,panache")
