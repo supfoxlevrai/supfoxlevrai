@@ -1,6 +1,6 @@
 # Hi 👋, I'm SupFox
 
-> **Etudiant en informatique & Développeur passionné (futur dev)**
+> **Etudiant à l'université de Villetaneuse Sorbonne Paris Nord, dans la filière BUT Informatique (futur dev passionné)**
 
 Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 
@@ -52,7 +52,9 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 
 ### 📫 Me contacter
 
-- **Email :** [supfoxlevrai@gmail.com](mailto:supfoxlevrai@gmail.com)
+- **Email :**
+  * (Personnel) [supfoxlevrai@gmail.com](mailto:supfoxlevrai@gmail.com)
+  * (Professionnel) [nathanael.dossantos@edu.univ-paris13.fr](mailto:nathanael.dossantos@edu.univ-paris13.fr)
 - **LinkedIn :** [Nathanaël Dos Santos](https://linkedin.com/in/nathanael-dos-santos)
 
 ⚡ **Fun fact :** *I think that I think... and I like Panache!*
