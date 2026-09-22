@@ -18,12 +18,12 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 #### 💻 Langages de programmation
 * **Maîtrisés**
 
-[![Langages maîtrisés](https://skillicons.dev/icons?i=java,js,py,php,html,css)](https://skillicons.dev)
+[![Langages maîtrisés](https://skillicons.dev/icons?i=java,js,py,html,css)](https://skillicons.dev)
 
 
 * **En cours d'apprentissage / Approfondissement**
 
-[![Langages en apprentissage](https://skillicons.dev/icons?i=ts,c,cpp,cs,rust,kotlin)](https://skillicons.dev)
+[![Langages en apprentissage](https://skillicons.dev/icons?i=ts,c,cpp,cs,rust,kotlin,php)](https://skillicons.dev)
 
 * **Scripting & Automatisation**
 
