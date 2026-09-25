@@ -23,7 +23,7 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 
 * **En cours d'apprentissage / Approfondissement**
 
-[![Langages en apprentissage](https://skillicons.dev/icons?i=ts,c,cpp,cs,rust,kotlin,php)](https://skillicons.dev)
+[![Langages en apprentissage](https://skillicons.dev/icons?i=ts,c,cpp,cs,rust,kotlin,php,nodejs)](https://skillicons.dev)
 
 * **Scripting & Automatisation**
 
