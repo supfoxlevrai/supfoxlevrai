@@ -1,6 +1,6 @@
 # Bonjour 👋
 
-> **Etudiant à l'université de Villetaneuse Sorbonne Paris Nord, dans la filière BUT Informatique (futur dev passionné)**
+> **Etudiant en 2e annéee à l'université de Villetaneuse Sorbonne Paris Nord, dans la filière BUT Informatique (futur dev passionné)**
 
 Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 
