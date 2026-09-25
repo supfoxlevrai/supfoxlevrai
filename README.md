@@ -1,4 +1,4 @@
-# Hi 👋, I'm SupFox
+# Bonjour 👋
 
 > **Etudiant à l'université de Villetaneuse Sorbonne Paris Nord, dans la filière BUT Informatique (futur dev passionné)**
 
