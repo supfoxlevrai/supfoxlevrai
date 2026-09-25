@@ -14,6 +14,7 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 -  **[NScript](https://github.com/supfoxlevrai/DOM-Factory)** — Conception d'un Langage de Programmation Orienté Jeux  (POJ) inspiré des traces des langages de programmation populaire (notamment les triptyque : Java/C++/Python) mais également du défunt ActionScript.
 
 ### 🛠️ Compétences & Environnement Technique
+<sub><sub>*Aperçu des technologies manipulées. Je privilégie l'adaptabilité et le développement continu de mes compétences sur chaque stack.*</sub></sub>
 
 #### 💻 Langages de programmation
 * **Maîtrisés**
