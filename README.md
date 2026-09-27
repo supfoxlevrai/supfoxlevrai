@@ -21,32 +21,32 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 #### 💻 Langages de programmation
 * **Maîtrisés**
 
-[![Langages maîtrisés](https://skillicons.dev/icons?i=java,js,py,html,css)](https://skillicons.dev)
+[![Langages maîtrisés](https://skillicons.dev/icons?i=java,js,py,html,css)](https://skillicons.dev "JAVA, JAVASCRIPT, PYTHON, HTML, CSS")
 
 
 * **En cours d'apprentissage / Approfondissement**
 
-[![Langages en apprentissage](https://skillicons.dev/icons?i=ts,c,cpp,cs,rust,kotlin,php)](https://skillicons.dev)
+[![Langages en apprentissage](https://skillicons.dev/icons?i=ts,c,cpp,cs,rust,kotlin,php)](https://skillicons.dev "TYPESCRIPT, C, C++, C#, RUST, KOTLIN, PHP")
 
 #### 🚀 Frameworks & Runtimes
 
-[![Runtimes](https://skillicons.dev/icons?i=nodejs,spring)](https://skillicons.dev)
+[![Runtimes](https://skillicons.dev/icons?i=nodejs,spring)](https://skillicons.dev "NODE.JS, SPRINGBOOT")
 
 #### **Scripting & Automatisation**
 
-[![Scripting](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)
+[![Scripting](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev "BASH, POWERSHELL")
 
 #### 🗄️ Bases de données
 
-[![Bases de données](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+[![Bases de données](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev "POSTGRESQL, MYSQL")
 
 #### ⚙️ Outils, Monitoring & Analyse
 
-[![Outils](https://skillicons.dev/icons?i=git,grafana)](https://skillicons.dev)
+[![Outils](https://skillicons.dev/icons?i=git,grafana)](https://skillicons.dev "GIT, GRAFANA")
 
 #### 🐧 Systèmes & Environnements
 
-[![Environnements](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
+[![Environnements](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev "LLINUX, UBUNTU, WINDOWS (, pas de macOS🥱)")
 
 ### 📊 Statistiques GitHub
 
