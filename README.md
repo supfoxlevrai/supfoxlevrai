@@ -71,6 +71,6 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
   * (Professionnel) [nathanael.dossantos@edu.univ-paris13.fr](mailto:nathanael.dossantos@edu.univ-paris13.fr)
 - **LinkedIn :** [Nathanaël Dos Santos](https://linkedin.com/in/nathanael-dos-santos)
 
-⚡ **Fun fact :** *I think that I think... and I like Panache!*
+💡 **Fun fact :** *I think that I think... and I like Panache!*
 
 [![EasterEgg](https://img.shields.io/badge/-Secret_Techs-black?style=flat-square&logo=linux)](https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif "Langage_en_cours_de_developpement:nscript,nml,nshake,ssl,real/nreal,kash,panache")
