@@ -15,6 +15,8 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 - 🔒 **[AutoTools](https://github.com/supfoxlevrai/AutoTools)** — - AutoTools — _"Pourquoi retenir 50 scripts quand une seule commande suffit ?"_ Conception d'un framework d'automatisation et d'outillage personnel en Bash.
 - **[Space Shooter](https://github.com/supfoxlevrai/Space-Shooter)** (Bash Edition) — Réinterprétation du classique Space Invaders entièrement jouable dans le terminal Linux, enrichie avec personnalisation, effets sonores et système de classement.
 
+<sub>**Liste non exhaustive.**</sub>
+
 ### 🛠️ Compétences & Environnement Technique
 <sub><sub>*Aperçu des technologies manipulées. Je privilégie l'adaptabilité et le développement continu de mes compétences sur chaque stack.*</sub></sub>
 
@@ -49,12 +51,17 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 [![Environnements](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev "LLINUX, UBUNTU, WINDOWS (, pas de macOS🥱)")
 
 ### 📊 Statistiques GitHub
-
+<!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supfoxlevrai&show_icons=true&theme=radial" alt="Statistiques GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supfoxlevrai&layout=compact&theme=radial" alt="Top Langages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=supfoxlevrai&show_icons=true&theme=radical" alt="Statistiques GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supfoxlevrai&layout=compact&theme=radical" alt="Top Langages" height="150"/>
 </p>
+-->
 
+<!--![Stars](https://img.shields.io/github/stars/SupFoxLeVrai?affiliations=OWNER&style=for-the-badge&logo=github&label=SupFox%20Stars&color=blueviolet)-->
+<!--![Followers](https://img.shields.io/github/followers/SupFoxLeVrai?style=for-the-badge)-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=supfoxlevrai&theme=github-dark-dimmed)](https://git.io/streak-stats)
 ---
 
 ### 📫 Me contacter
