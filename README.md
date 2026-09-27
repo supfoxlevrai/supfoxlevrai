@@ -11,7 +11,8 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 
 - **[Nathoup2p](https://github.com/supfoxlevrai/Nathoup2p)** — Démarche de conception d'une messagerie Peer To Peer (P2P) en Java&JS.
 - **[DOM-Factory](https://github.com/supfoxlevrai/DOM-Factory)** — _"Et si les objets du quotidien étaient sur un simple navigateur 😳."_
--  **[NScript](https://github.com/supfoxlevrai/DOM-Factory)** — Conception d'un Langage de Programmation Orienté Jeux  (POJ) inspiré des traces des langages de programmation populaire (notamment les triptyque : Java/C++/Python) mais également du défunt ActionScript.
+- 🔒 **[NScript](https://github.com/supfoxlevrai/Nscript)** — Conception d'un Langage de Programmation Orienté Jeux  (POJ) inspiré des traces des langages de programmation populaire (notamment les triptyque : Java/C++/Python) mais également du défunt ActionScript.
+- 🔒 **[AutoTools](https://github.com/supfoxlevrai/AutoTools)** — - AutoTools — _"Pourquoi retenir 50 scripts quand une seule commande suffit ?"_ Conception d'un framework d'automatisation et d'outillage personnel en Bash.
 
 ### 🛠️ Compétences & Environnement Technique
 <sub><sub>*Aperçu des technologies manipulées. Je privilégie l'adaptabilité et le développement continu de mes compétences sur chaque stack.*</sub></sub>
