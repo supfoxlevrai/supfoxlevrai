@@ -14,7 +14,7 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 - 🔒 **[NScript](https://github.com/supfoxlevrai/Nscript)** — Conception d'un Langage de Programmation Orienté Jeux  (POJ) inspiré des traces des langages de programmation populaire (notamment les triptyque : Java/C++/Python) mais également du défunt ActionScript.
 - 🔒 **[AutoTools](https://github.com/supfoxlevrai/AutoTools)** — AutoTools — _"Pourquoi retenir 50 scripts quand une seule commande suffit ?"_ Conception d'un framework d'automatisation et d'outillage personnel en Bash.
 
-### 📡 Projets en cours
+### 📡 Projets Terminés
 - **[Space Shooter](https://github.com/supfoxlevrai/Space-Shooter)** (Bash Edition) — Réinterprétation du classique Space Invaders entièrement jouable dans le terminal Linux, enrichie avec personnalisation, effets sonores et système de classement.
 
 <sub>**Liste non exhaustive.**</sub>
