@@ -11,7 +11,7 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 
 - **[Nathoup2p](https://github.com/supfoxlevrai/Nathoup2p)** — Démarche de conception d'une messagerie Peer To Peer (P2P) en Java&JS.
 - **[DOM-Factory](https://github.com/supfoxlevrai/DOM-Factory)** — _"Et si les objets du quotidien étaient sur un simple navigateur 😳."_
-- 🔒 **[NScript](https://github.com/supfoxlevrai/Nscript)** — Conception d'un Langage de Programmation Orienté Jeux  (POJ) inspiré des traces des langages de programmation populaire (notamment les triptyque : Java/C++/Python) mais également du défunt ActionScript.
+- 🔒 **[NScript](https://github.com/supfoxlevrai/Nscript)** — Langage de Programmation Orienté Jeux (POJ), inspiré des triptyques Java/C++/Python et du défunt ActionScript.
   - 📍 Phase actuelle : stabilisation de la grammaire (Jalon 1 validé)
   - ✅ Spécifications : 12 fiches de conception (genèse, manifeste, fiches techniques)
   - ✅ Pipeline Lexer/Parser généré avec ANTLR4 (Java/Maven)
