@@ -37,6 +37,7 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 * **En cours d'apprentissage / Approfondissement**
 
 [![Langages en apprentissage](https://skillicons.dev/icons?i=ts,c,cpp,cs,rust,kotlin,php)](https://skillicons.dev "TYPESCRIPT, C, C++, C#, RUST, KOTLIN, PHP")
+![ActionScript](https://img.shields.io/badge/ActionScript-E34F26?style=plastic&logo=actionscript&logoColor=white "ActionScript Défunt — (Pour la culture) ET pour NScript")
 
 #### 🚀 Frameworks & Runtimes
 
