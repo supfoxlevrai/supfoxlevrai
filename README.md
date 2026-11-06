@@ -1,3 +1,20 @@
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=supfoxlevrai&show_icons=true&theme=radical" alt="Statistiques GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supfoxlevrai&layout=compact&theme=radical" alt="Top Langages" height="150"/>
+</p>
+-->
+
+<!--![Stars](https://img.shields.io/github/stars/SupFoxLeVrai?affiliations=OWNER&style=for-the-badge&logo=github&label=SupFox%20Stars&color=blueviolet)-->
+<!--![Followers](https://img.shields.io/github/followers/SupFoxLeVrai?style=for-the-badge)-->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=supfoxlevrai&theme=github-dark-dimmed" alt="GitHub Streak" />
+  </a>
+</p>
+
+
+
 # Bonjour 👋
 
 > **Etudiant en 2e annéee à l'université de Villetaneuse Sorbonne Paris Nord, dans la filière BUT Informatique (futur dev passionné)**
@@ -58,19 +75,6 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 #### 🐧 Systèmes & Environnements
 
 [![Environnements](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev "LLINUX, UBUNTU, WINDOWS (, pas de macOS🥱)")
-
-### 📊 Statistiques GitHub
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supfoxlevrai&show_icons=true&theme=radical" alt="Statistiques GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supfoxlevrai&layout=compact&theme=radical" alt="Top Langages" height="150"/>
-</p>
--->
-
-<!--![Stars](https://img.shields.io/github/stars/SupFoxLeVrai?affiliations=OWNER&style=for-the-badge&logo=github&label=SupFox%20Stars&color=blueviolet)-->
-<!--![Followers](https://img.shields.io/github/followers/SupFoxLeVrai?style=for-the-badge)-->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=supfoxlevrai&theme=github-dark-dimmed)](https://git.io/streak-stats)
 ---
 
 ### 📫 Me contacter
