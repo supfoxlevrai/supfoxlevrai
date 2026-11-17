@@ -34,7 +34,11 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
   - ✅ Pipeline Lexer/Parser généré avec ANTLR4 (Java/Maven)
   - ✅ Grammaire étape 1 : variables, affectations, expressions, appels de fonction
   - 🔄 Prochaine étape : Visitor (arbre ANTLR → AST)
-    
+- 🔒 **[NoClass](https://github.com/supfoxlevrai/noclass)** — Langage de programmation expérimental et minimaliste pensé pour faire de l'objet « sans élégance » et sans le mot-clé `class` (piloté par la casse, des sigils et des flux à la Unix).
+  - 📍 Phase actuelle : développement du préprocesseur (`preproc_jourdain.sh`) & identité visuelle
+  - ✅ Spécifications v0.3 : règle de casse (Moules vs instances), pattern matching par symboles, redirections (`1>`, `2>`) et imports (`<`, `<<`, `<<<`)
+  - ✅ Identité visuelle : panoplie SVG complète « Monsieur Jourdain » (tricorne & plume-flux)
+  - 🔄 Prochaine étape : finalisation du préprocesseur Bash et liaison avec le runtime C
 - 🔒 **[AutoTools](https://github.com/supfoxlevrai/AutoTools)** — AutoTools — _"Pourquoi retenir 50 scripts quand une seule commande suffit ?"_ Conception d'un framework d'automatisation et d'outillage personnel en Bash.
 
 ### 📡 Projets Terminés
@@ -53,7 +57,7 @@ Qu'est-ce que je pourrais dire pour me présenter...🤔💭
 
 * **En cours d'apprentissage / Approfondissement**
 
-[![Langages en apprentissage](https://skillicons.dev/icons?i=ts,c,cpp,cs,rust,kotlin,php)](https://skillicons.dev "TYPESCRIPT, C, C++, C#, RUST, KOTLIN, PHP")
+[![Langages en apprentissage](https://skillicons.dev/icons?i=ts,c,cpp,cs,rust,kotlin,php,ruby)](https://skillicons.dev "TYPESCRIPT, C, C++, C#, RUST, KOTLIN, PHP, RUBY")
 ![ActionScript](https://img.shields.io/badge/ActionScript-E34F26?style=plastic&logo=actionscript&logoColor=white "ActionScript Défunt — (Pour la culture) ET pour NScript")
 
 #### 🚀 Frameworks & Runtimes
